@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    text-align: center;
+   /* align-content: center;*/    
+}
+
+ul{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    text-decoration: underline;
+}
